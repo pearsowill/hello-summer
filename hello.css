@@ -48,7 +48,7 @@ main img {
   max-width: 50%;
   margin: 0 auto 1rem;
   height: auto;
-  border-radius: 50%;
+  /*border-radius: 50%;*/
 }
 
 main p {
